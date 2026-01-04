@@ -2,3 +2,4 @@ Commit at 2026-01-02 12:58:43 - Minify CSS for production
 Commit at 2026-01-02 15:26:22 - Add new gallery images
 Commit at 2026-01-03 10:15:52 - Correct WhatsApp float position
 Commit at 2026-01-03 19:01:47 - Refactor CSS variables
+Commit at 2026-01-03 19:42:13 - Resolve font loading flash
