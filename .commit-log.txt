@@ -9,3 +9,4 @@ Commit at 2026-01-03 13:26:42 - Add new service offering
 Commit at 2026-01-05 16:41:59 - Add delivery information section
 Commit at 2026-01-05 11:05:38 - Optimize image file sizes
 Commit at 2026-01-06 22:18:42 - Adjust padding and margins sitewide
+Commit at 2026-01-07 10:45:30 - Add prescription upload section
