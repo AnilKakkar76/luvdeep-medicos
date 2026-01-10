@@ -21,3 +21,4 @@ Commit at 2026-01-10 09:03:50 - Fix sticky header z-index issue
 Commit at 2026-01-10 11:23:13 - Add WhatsApp quick contact
 Commit at 2026-01-10 15:34:04 - Fix navigation menu toggle bug
 Commit at 2026-01-10 14:51:27 - Add customer testimonial section
+Commit at 2026-01-10 09:37:32 - Fix broken image links
