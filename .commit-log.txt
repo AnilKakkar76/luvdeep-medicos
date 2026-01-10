@@ -19,3 +19,4 @@ Commit at 2026-01-10 12:57:00 - Clean up unused styles
 Commit at 2026-01-10 11:28:45 - Fix image aspect ratio on product cards
 Commit at 2026-01-10 09:03:50 - Fix sticky header z-index issue
 Commit at 2026-01-10 11:23:13 - Add WhatsApp quick contact
+Commit at 2026-01-10 15:34:04 - Fix navigation menu toggle bug
