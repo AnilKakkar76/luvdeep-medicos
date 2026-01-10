@@ -17,3 +17,4 @@ Commit at 2026-01-07 17:23:41 - Correct WhatsApp float position
 Commit at 2026-01-07 21:12:34 - Fix mobile menu closing issue
 Commit at 2026-01-10 12:57:00 - Clean up unused styles
 Commit at 2026-01-10 11:28:45 - Fix image aspect ratio on product cards
+Commit at 2026-01-10 09:03:50 - Fix sticky header z-index issue
