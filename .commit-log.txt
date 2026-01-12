@@ -23,3 +23,4 @@ Commit at 2026-01-10 15:34:04 - Fix navigation menu toggle bug
 Commit at 2026-01-10 14:51:27 - Add customer testimonial section
 Commit at 2026-01-10 09:37:32 - Fix broken image links
 Commit at 2026-01-10 10:03:53 - Clean up unused styles
+Commit at 2026-01-12 15:13:31 - Add social media links
