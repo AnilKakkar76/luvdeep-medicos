@@ -25,3 +25,4 @@ Commit at 2026-01-10 09:37:32 - Fix broken image links
 Commit at 2026-01-10 10:03:53 - Clean up unused styles
 Commit at 2026-01-12 15:13:31 - Add social media links
 Commit at 2026-01-13 12:43:05 - Patch broken anchor links
+Commit at 2026-01-13 14:12:40 - Improve gallery section alignment
