@@ -29,3 +29,4 @@ Commit at 2026-01-13 14:12:40 - Improve gallery section alignment
 Commit at 2026-01-13 22:57:41 - Update topbar styling
 Commit at 2026-01-13 20:56:54 - Reorganize asset folder structure
 Commit at 2026-01-13 15:26:53 - Fix sticky header z-index issue
+Commit at 2026-01-14 12:20:27 - Update color scheme for better contrast
