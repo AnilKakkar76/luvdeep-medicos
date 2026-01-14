@@ -27,3 +27,4 @@ Commit at 2026-01-12 15:13:31 - Add social media links
 Commit at 2026-01-13 12:43:05 - Patch broken anchor links
 Commit at 2026-01-13 14:12:40 - Improve gallery section alignment
 Commit at 2026-01-13 22:57:41 - Update topbar styling
+Commit at 2026-01-13 20:56:54 - Reorganize asset folder structure
