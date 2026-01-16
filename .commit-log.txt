@@ -32,3 +32,4 @@ Commit at 2026-01-13 15:26:53 - Fix sticky header z-index issue
 Commit at 2026-01-14 12:20:27 - Update color scheme for better contrast
 Commit at 2026-01-15 21:42:18 - Add pharmacist credentials
 Commit at 2026-01-15 16:10:05 - Refine contact section layout
+Commit at 2026-01-16 15:54:39 - Fix overlapping elements in footer
