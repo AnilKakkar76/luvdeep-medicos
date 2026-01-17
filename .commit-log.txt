@@ -38,3 +38,4 @@ Commit at 2026-01-16 19:33:15 - Refine typography and font sizes
 Commit at 2026-01-16 17:32:41 - Add new medicine category
 Commit at 2026-01-16 20:26:29 - Improve meta description
 Commit at 2026-01-17 13:48:23 - Add subtle animations to CTA section
+Commit at 2026-01-17 11:50:32 - Fix broken image links
