@@ -45,3 +45,4 @@ Commit at 2026-01-17 09:16:28 - Fix typo in about section
 Commit at 2026-01-17 16:15:24 - Add new gallery images
 Commit at 2026-01-17 18:15:20 - Fix mobile menu closing issue
 Commit at 2026-01-20 20:09:21 - Refine contact section layout
+Commit at 2026-01-21 20:22:03 - Update topbar styling
