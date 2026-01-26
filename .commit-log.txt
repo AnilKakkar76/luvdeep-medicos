@@ -56,3 +56,4 @@ Commit at 2026-01-22 19:18:53 - Improve service bar design
 Commit at 2026-01-22 16:42:20 - Update hero section layout
 Commit at 2026-01-22 10:43:07 - Optimize image file sizes
 Commit at 2026-01-22 15:12:22 - Fix mobile menu closing issue
+Commit at 2026-01-26 13:04:21 - Reorganize asset folder structure
