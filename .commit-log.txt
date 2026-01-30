@@ -70,3 +70,4 @@ Commit at 2026-01-28 18:04:00 - Optimize image file sizes
 Commit at 2026-01-28 12:29:16 - Update hero section layout
 Commit at 2026-01-29 22:20:13 - Correct WhatsApp float position
 Commit at 2026-01-30 10:02:34 - Fix broken image links
+Commit at 2026-01-30 10:59:22 - Clean up unused styles
