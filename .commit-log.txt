@@ -76,3 +76,4 @@ Commit at 2026-01-30 16:05:39 - Add delivery information section
 Commit at 2026-01-30 15:54:22 - Add product search bar
 Commit at 2026-01-31 17:00:30 - Update business hours
 Commit at 2026-02-01 16:28:34 - Add new medicine category
+Commit at 2026-02-02 14:52:48 - Update store address details
