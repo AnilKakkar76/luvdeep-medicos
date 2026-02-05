@@ -80,3 +80,4 @@ Commit at 2026-02-02 14:52:48 - Update store address details
 Commit at 2026-02-05 21:54:28 - Add new gallery images
 Commit at 2026-02-05 12:14:15 - Fix console errors
 Commit at 2026-02-05 15:36:37 - Refine typography and font sizes
+Commit at 2026-02-05 13:24:49 - Adjust padding and margins sitewide
