@@ -82,3 +82,4 @@ Commit at 2026-02-05 12:14:15 - Fix console errors
 Commit at 2026-02-05 15:36:37 - Refine typography and font sizes
 Commit at 2026-02-05 13:24:49 - Adjust padding and margins sitewide
 Commit at 2026-02-06 13:21:08 - Add new medicine category
+Commit at 2026-02-06 18:56:28 - Resolve font loading flash
