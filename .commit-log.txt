@@ -85,3 +85,4 @@ Commit at 2026-02-06 13:21:08 - Add new medicine category
 Commit at 2026-02-06 18:56:28 - Resolve font loading flash
 Commit at 2026-02-06 16:13:46 - Improve service bar design
 Commit at 2026-02-06 15:08:04 - Adjust padding and margins sitewide
+Commit at 2026-02-07 13:19:15 - Fix image aspect ratio on product cards
