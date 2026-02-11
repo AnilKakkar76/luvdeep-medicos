@@ -92,3 +92,4 @@ Commit at 2026-02-10 16:16:27 - Fix typo in about section
 Commit at 2026-02-10 17:07:05 - Add prescription upload section
 Commit at 2026-02-10 14:10:28 - Add FAQ section
 Commit at 2026-02-10 09:10:30 - Add Google Maps embed
+Commit at 2026-02-11 16:48:17 - Fix mobile menu closing issue
