@@ -95,3 +95,4 @@ Commit at 2026-02-10 09:10:30 - Add Google Maps embed
 Commit at 2026-02-11 16:48:17 - Fix mobile menu closing issue
 Commit at 2026-02-11 14:18:36 - Add FAQ section
 Commit at 2026-02-11 21:50:02 - Add delivery information section
+Commit at 2026-02-11 17:02:06 - Resolve font loading flash
