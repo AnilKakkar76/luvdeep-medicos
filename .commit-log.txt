@@ -97,3 +97,4 @@ Commit at 2026-02-11 14:18:36 - Add FAQ section
 Commit at 2026-02-11 21:50:02 - Add delivery information section
 Commit at 2026-02-11 17:02:06 - Resolve font loading flash
 Commit at 2026-02-11 15:14:13 - Fix image aspect ratio on product cards
+Commit at 2026-02-11 18:39:04 - Add new medicine category
