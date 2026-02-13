@@ -100,3 +100,4 @@ Commit at 2026-02-11 15:14:13 - Fix image aspect ratio on product cards
 Commit at 2026-02-11 18:39:04 - Add new medicine category
 Commit at 2026-02-11 09:33:01 - Fix broken image links
 Commit at 2026-02-11 17:44:34 - Refine contact section layout
+Commit at 2026-02-12 21:46:00 - Clean up unused styles
