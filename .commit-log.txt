@@ -106,3 +106,4 @@ Commit at 2026-02-17 12:26:38 - Adjust product card grid spacing
 Commit at 2026-02-17 17:50:36 - Remove deprecated styles
 Commit at 2026-02-18 20:46:38 - Add delivery information section
 Commit at 2026-02-18 14:12:29 - Update product descriptions
+Commit at 2026-02-18 09:36:40 - Fix broken image links
