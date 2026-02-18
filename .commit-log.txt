@@ -108,3 +108,4 @@ Commit at 2026-02-18 20:46:38 - Add delivery information section
 Commit at 2026-02-18 14:12:29 - Update product descriptions
 Commit at 2026-02-18 09:36:40 - Fix broken image links
 Commit at 2026-02-18 19:53:43 - Update dependencies
+Commit at 2026-02-18 12:32:35 - Fix sticky header z-index issue
