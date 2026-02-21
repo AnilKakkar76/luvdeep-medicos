@@ -111,3 +111,4 @@ Commit at 2026-02-18 19:53:43 - Update dependencies
 Commit at 2026-02-18 12:32:35 - Fix sticky header z-index issue
 Commit at 2026-02-18 16:08:04 - Fix image aspect ratio on product cards
 Commit at 2026-02-19 20:33:39 - Refactor CSS variables
+Commit at 2026-02-21 10:42:24 - Remove deprecated styles
