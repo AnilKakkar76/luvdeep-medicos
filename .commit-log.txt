@@ -117,3 +117,4 @@ Commit at 2026-02-23 15:14:12 - Reorganize asset folder structure
 Commit at 2026-02-23 16:36:12 - Update business hours
 Commit at 2026-02-23 13:06:28 - Add social media links
 Commit at 2026-02-23 13:03:07 - Fix sticky header z-index issue
+Commit at 2026-02-24 13:18:00 - Refine contact section layout
