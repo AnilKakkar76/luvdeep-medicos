@@ -131,3 +131,4 @@ Commit at 2026-02-27 15:05:02 - Fix mobile menu closing issue
 Commit at 2026-02-27 15:49:08 - Refine typography and font sizes
 Commit at 2026-02-27 13:28:41 - Fix broken layout on tablet view
 Commit at 2026-02-27 16:22:39 - Refine typography and font sizes
+Commit at 2026-02-27 21:06:56 - Add Google Maps embed
