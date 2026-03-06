@@ -135,3 +135,4 @@ Commit at 2026-02-27 21:06:56 - Add Google Maps embed
 Commit at 2026-02-27 22:02:22 - Add FAQ section
 Commit at 2026-02-27 11:59:25 - Add delivery information section
 Commit at 2026-03-05 10:31:45 - Fix typo in about section
+Commit at 2026-03-05 19:01:36 - Correct WhatsApp float position
