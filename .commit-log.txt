@@ -154,3 +154,4 @@ Commit at 2026-03-08 14:16:06 - Improve button hover effects
 Commit at 2026-03-08 16:23:54 - Adjust padding and margins sitewide
 Commit at 2026-03-08 19:39:52 - Add social media links
 Commit at 2026-03-11 12:21:54 - Add social media links
+Commit at 2026-03-12 16:51:11 - Add WhatsApp quick contact
