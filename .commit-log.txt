@@ -162,3 +162,4 @@ Commit at 2026-03-12 22:01:07 - Improve gallery section alignment
 Commit at 2026-03-12 15:29:01 - Improve service bar design
 Commit at 2026-03-12 18:15:28 - Update business hours
 Commit at 2026-03-13 09:31:42 - Improve button hover effects
+Commit at 2026-03-14 17:08:52 - Add subtle animations to CTA section
