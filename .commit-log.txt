@@ -175,3 +175,4 @@ Commit at 2026-03-16 14:23:24 - Optimize image file sizes
 Commit at 2026-03-16 09:51:55 - Remove deprecated styles
 Commit at 2026-03-16 17:13:01 - Update dependencies
 Commit at 2026-03-16 14:00:00 - Update business hours
+Commit at 2026-03-16 12:58:08 - Fix image aspect ratio on product cards
