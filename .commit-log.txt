@@ -172,3 +172,4 @@ Commit at 2026-03-16 20:00:01 - Update store address details
 Commit at 2026-03-16 19:34:46 - Fix console errors
 Commit at 2026-03-16 17:47:18 - Improve meta description
 Commit at 2026-03-16 14:23:24 - Optimize image file sizes
+Commit at 2026-03-16 09:51:55 - Remove deprecated styles
