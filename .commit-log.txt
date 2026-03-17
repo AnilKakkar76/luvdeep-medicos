@@ -177,3 +177,4 @@ Commit at 2026-03-16 17:13:01 - Update dependencies
 Commit at 2026-03-16 14:00:00 - Update business hours
 Commit at 2026-03-16 12:58:08 - Fix image aspect ratio on product cards
 Commit at 2026-03-16 19:10:29 - Correct WhatsApp float position
+Commit at 2026-03-17 11:26:05 - Update page title and keywords
