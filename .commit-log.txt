@@ -179,3 +179,4 @@ Commit at 2026-03-16 12:58:08 - Fix image aspect ratio on product cards
 Commit at 2026-03-16 19:10:29 - Correct WhatsApp float position
 Commit at 2026-03-17 11:26:05 - Update page title and keywords
 Commit at 2026-03-17 16:11:47 - Fix navbar responsiveness on mobile
+Commit at 2026-03-18 19:10:17 - Refine contact section layout
