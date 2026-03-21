@@ -185,3 +185,4 @@ Commit at 2026-03-19 13:51:31 - Minify CSS for production
 Commit at 2026-03-20 10:14:15 - Refine typography and font sizes
 Commit at 2026-03-20 15:33:18 - Add new service offering
 Commit at 2026-03-21 15:47:24 - Fix mobile menu closing issue
+Commit at 2026-03-21 14:30:28 - Fix typo in about section
