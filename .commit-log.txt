@@ -193,3 +193,4 @@ Commit at 2026-03-22 22:09:29 - Refine contact section layout
 Commit at 2026-03-22 15:36:16 - Add new gallery images
 Commit at 2026-03-22 09:12:26 - Add prescription upload section
 Commit at 2026-03-22 21:34:52 - Add prescription upload section
+Commit at 2026-03-22 14:26:07 - Fix navigation menu toggle bug
