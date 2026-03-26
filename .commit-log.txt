@@ -205,3 +205,4 @@ Commit at 2026-03-24 09:50:45 - Add social media links
 Commit at 2026-03-24 18:16:48 - Refactor CSS variables
 Commit at 2026-03-25 10:39:35 - Optimize image file sizes
 Commit at 2026-03-25 19:25:33 - Clean up unused styles
+Commit at 2026-03-25 19:01:32 - Reorganize asset folder structure
