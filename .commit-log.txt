@@ -212,3 +212,4 @@ Commit at 2026-03-26 09:17:44 - Improve button hover effects
 Commit at 2026-03-26 19:01:04 - Add pharmacist credentials
 Commit at 2026-03-26 22:17:58 - Fix mobile menu closing issue
 Commit at 2026-03-26 19:12:21 - Optimize image file sizes
+Commit at 2026-03-26 15:40:15 - Update hero section layout
