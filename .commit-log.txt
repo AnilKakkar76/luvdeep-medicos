@@ -237,3 +237,4 @@ Commit at 2026-03-30 12:37:06 - Add customer testimonial section
 Commit at 2026-03-30 13:13:45 - Add Google Maps embed
 Commit at 2026-03-30 12:39:17 - Update color scheme for better contrast
 Commit at 2026-03-30 19:30:47 - Add newsletter signup form
+Commit at 2026-04-02 09:47:59 - Fix sticky header z-index issue
