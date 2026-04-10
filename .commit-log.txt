@@ -249,3 +249,4 @@ Commit at 2026-04-10 22:08:43 - Add customer testimonial section
 Commit at 2026-04-10 10:11:31 - Add product search bar
 Commit at 2026-04-10 11:54:29 - Update product descriptions
 Commit at 2026-04-10 14:06:19 - Optimize image file sizes
+Commit at 2026-04-10 11:54:56 - Clean up unused styles
