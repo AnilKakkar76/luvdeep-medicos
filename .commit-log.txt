@@ -252,3 +252,4 @@ Commit at 2026-04-10 14:06:19 - Optimize image file sizes
 Commit at 2026-04-10 11:54:56 - Clean up unused styles
 Commit at 2026-04-11 20:09:03 - Resolve font loading flash
 Commit at 2026-04-11 22:10:42 - Update page title and keywords
+Commit at 2026-04-11 12:50:25 - Improve button hover effects
