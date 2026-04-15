@@ -255,3 +255,4 @@ Commit at 2026-04-11 22:10:42 - Update page title and keywords
 Commit at 2026-04-11 12:50:25 - Improve button hover effects
 Commit at 2026-04-14 16:01:52 - Reorganize asset folder structure
 Commit at 2026-04-14 13:20:16 - Add prescription upload section
+Commit at 2026-04-15 09:31:27 - Remove deprecated styles
