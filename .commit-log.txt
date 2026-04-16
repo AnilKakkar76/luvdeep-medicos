@@ -258,3 +258,4 @@ Commit at 2026-04-14 13:20:16 - Add prescription upload section
 Commit at 2026-04-15 09:31:27 - Remove deprecated styles
 Commit at 2026-04-15 22:04:18 - Update topbar styling
 Commit at 2026-04-16 14:50:58 - Add new service offering
+Commit at 2026-04-16 11:07:32 - Add Google Maps embed
