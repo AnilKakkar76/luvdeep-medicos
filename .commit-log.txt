@@ -262,3 +262,4 @@ Commit at 2026-04-16 11:07:32 - Add Google Maps embed
 Commit at 2026-04-16 09:22:38 - Improve service bar design
 Commit at 2026-04-16 16:14:14 - Fix sticky header z-index issue
 Commit at 2026-04-17 10:21:27 - Add customer testimonial section
+Commit at 2026-04-17 12:05:14 - Fix typo in about section
