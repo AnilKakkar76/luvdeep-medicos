@@ -266,3 +266,4 @@ Commit at 2026-04-17 12:05:14 - Fix typo in about section
 Commit at 2026-04-21 11:18:59 - Clean up unused styles
 Commit at 2026-04-21 18:32:38 - Add smooth scroll behavior
 Commit at 2026-04-21 15:50:08 - Update business hours
+Commit at 2026-04-21 11:51:46 - Improve code formatting
