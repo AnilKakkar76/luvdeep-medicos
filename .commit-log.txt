@@ -264,3 +264,4 @@ Commit at 2026-04-16 16:14:14 - Fix sticky header z-index issue
 Commit at 2026-04-17 10:21:27 - Add customer testimonial section
 Commit at 2026-04-17 12:05:14 - Fix typo in about section
 Commit at 2026-04-21 11:18:59 - Clean up unused styles
+Commit at 2026-04-21 18:32:38 - Add smooth scroll behavior
