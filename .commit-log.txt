@@ -268,3 +268,4 @@ Commit at 2026-04-21 18:32:38 - Add smooth scroll behavior
 Commit at 2026-04-21 15:50:08 - Update business hours
 Commit at 2026-04-21 11:51:46 - Improve code formatting
 Commit at 2026-04-22 17:18:44 - Remove deprecated styles
+Commit at 2026-04-22 11:32:16 - Refine typography and font sizes
