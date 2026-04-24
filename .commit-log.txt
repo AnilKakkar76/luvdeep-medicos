@@ -273,3 +273,4 @@ Commit at 2026-04-23 12:48:31 - Add WhatsApp quick contact
 Commit at 2026-04-23 09:39:32 - Update footer copyright year
 Commit at 2026-04-23 18:46:13 - Add FAQ section
 Commit at 2026-04-23 21:57:43 - Fix sticky header z-index issue
+Commit at 2026-04-23 22:26:13 - Improve code formatting
