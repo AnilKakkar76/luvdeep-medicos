@@ -295,3 +295,4 @@ Commit at 2026-05-04 16:21:49 - Update color scheme for better contrast
 Commit at 2026-05-04 21:02:20 - Update color scheme for better contrast
 Commit at 2026-05-04 11:21:32 - Refine typography and font sizes
 Commit at 2026-05-04 20:42:15 - Add Google Maps embed
+Commit at 2026-05-04 17:34:08 - Fix mobile menu closing issue
