@@ -289,3 +289,4 @@ Commit at 2026-05-02 17:29:14 - Add new service offering
 Commit at 2026-05-02 10:10:23 - Update business hours
 Commit at 2026-05-04 11:00:25 - Fix image aspect ratio on product cards
 Commit at 2026-05-04 10:12:20 - Add prescription upload section
+Commit at 2026-05-04 14:40:15 - Fix sticky header z-index issue
