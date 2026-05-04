@@ -293,3 +293,4 @@ Commit at 2026-05-04 14:40:15 - Fix sticky header z-index issue
 Commit at 2026-05-04 15:01:24 - Add smooth scroll behavior
 Commit at 2026-05-04 16:21:49 - Update color scheme for better contrast
 Commit at 2026-05-04 21:02:20 - Update color scheme for better contrast
+Commit at 2026-05-04 11:21:32 - Refine typography and font sizes
