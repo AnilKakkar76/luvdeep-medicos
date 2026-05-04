@@ -291,3 +291,4 @@ Commit at 2026-05-04 11:00:25 - Fix image aspect ratio on product cards
 Commit at 2026-05-04 10:12:20 - Add prescription upload section
 Commit at 2026-05-04 14:40:15 - Fix sticky header z-index issue
 Commit at 2026-05-04 15:01:24 - Add smooth scroll behavior
+Commit at 2026-05-04 16:21:49 - Update color scheme for better contrast
