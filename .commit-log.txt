@@ -301,3 +301,4 @@ Commit at 2026-05-05 13:14:05 - Update hero section layout
 Commit at 2026-05-05 21:04:19 - Add WhatsApp quick contact
 Commit at 2026-05-05 18:40:34 - Improve meta description
 Commit at 2026-05-05 21:35:48 - Add product search bar
+Commit at 2026-05-05 14:33:19 - Fix mobile menu closing issue
