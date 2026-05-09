@@ -314,3 +314,4 @@ Commit at 2026-05-09 19:13:18 - Add prescription upload section
 Commit at 2026-05-09 22:16:32 - Add social media links
 Commit at 2026-05-09 16:52:45 - Improve service bar design
 Commit at 2026-05-09 11:25:22 - Add new gallery images
+Commit at 2026-05-09 17:29:20 - Update hero section layout
