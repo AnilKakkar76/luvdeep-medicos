@@ -311,3 +311,4 @@ Commit at 2026-05-08 22:01:44 - Update topbar styling
 Commit at 2026-05-08 16:26:12 - Add FAQ section
 Commit at 2026-05-08 10:30:54 - Fix console errors
 Commit at 2026-05-09 19:13:18 - Add prescription upload section
+Commit at 2026-05-09 22:16:32 - Add social media links
