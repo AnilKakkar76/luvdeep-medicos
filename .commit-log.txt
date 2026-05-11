@@ -318,3 +318,4 @@ Commit at 2026-05-09 17:29:20 - Update hero section layout
 Commit at 2026-05-09 09:14:56 - Minify CSS for production
 Commit at 2026-05-09 18:03:46 - Update dependencies
 Commit at 2026-05-09 20:44:45 - Improve meta description
+Commit at 2026-05-11 12:51:37 - Fix overlapping elements in footer
