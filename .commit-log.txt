@@ -324,3 +324,4 @@ Commit at 2026-05-11 15:15:35 - Fix mobile menu closing issue
 Commit at 2026-05-11 21:36:09 - Add pharmacist credentials
 Commit at 2026-05-12 11:30:49 - Add prescription upload section
 Commit at 2026-05-13 22:19:29 - Adjust product card grid spacing
+Commit at 2026-05-13 12:38:32 - Add smooth scroll behavior
