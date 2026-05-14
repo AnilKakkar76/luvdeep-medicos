@@ -326,3 +326,4 @@ Commit at 2026-05-12 11:30:49 - Add prescription upload section
 Commit at 2026-05-13 22:19:29 - Adjust product card grid spacing
 Commit at 2026-05-13 12:38:32 - Add smooth scroll behavior
 Commit at 2026-05-14 18:21:22 - Refine contact section layout
+Commit at 2026-05-14 15:56:50 - Add customer testimonial section
