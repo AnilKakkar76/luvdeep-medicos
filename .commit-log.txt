@@ -328,3 +328,4 @@ Commit at 2026-05-13 12:38:32 - Add smooth scroll behavior
 Commit at 2026-05-14 18:21:22 - Refine contact section layout
 Commit at 2026-05-14 15:56:50 - Add customer testimonial section
 Commit at 2026-05-15 11:01:16 - Fix sticky header z-index issue
+Commit at 2026-05-15 11:04:29 - Add new medicine category
