@@ -345,3 +345,4 @@ Commit at 2026-05-16 09:31:17 - Improve meta description
 Commit at 2026-05-16 18:43:12 - Adjust padding and margins sitewide
 Commit at 2026-05-16 17:55:57 - Fix mobile menu closing issue
 Commit at 2026-05-16 20:34:07 - Correct WhatsApp float position
+Commit at 2026-05-16 14:05:45 - Fix sticky header z-index issue
