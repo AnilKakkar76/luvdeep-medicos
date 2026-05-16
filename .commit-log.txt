@@ -333,3 +333,4 @@ Commit at 2026-05-15 21:34:57 - Adjust product card grid spacing
 Commit at 2026-05-15 17:53:31 - Fix sticky header z-index issue
 Commit at 2026-05-15 10:21:35 - Update store address details
 Commit at 2026-05-15 12:32:04 - Fix overlapping elements in footer
+Commit at 2026-05-15 21:35:40 - Improve button hover effects
