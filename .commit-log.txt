@@ -336,3 +336,4 @@ Commit at 2026-05-15 12:32:04 - Fix overlapping elements in footer
 Commit at 2026-05-15 21:35:40 - Improve button hover effects
 Commit at 2026-05-15 13:47:32 - Add delivery information section
 Commit at 2026-05-15 09:36:16 - Improve gallery section alignment
+Commit at 2026-05-16 09:40:27 - Optimize image file sizes
