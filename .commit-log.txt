@@ -347,3 +347,4 @@ Commit at 2026-05-16 17:55:57 - Fix mobile menu closing issue
 Commit at 2026-05-16 20:34:07 - Correct WhatsApp float position
 Commit at 2026-05-16 14:05:45 - Fix sticky header z-index issue
 Commit at 2026-05-18 14:31:43 - Clean up unused styles
+Commit at 2026-05-18 10:11:41 - Add customer testimonial section
