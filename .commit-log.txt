@@ -361,3 +361,4 @@ Commit at 2026-05-23 17:27:29 - Add Google Maps embed
 Commit at 2026-05-23 22:09:53 - Correct WhatsApp float position
 Commit at 2026-05-24 16:42:53 - Update page title and keywords
 Commit at 2026-05-24 19:22:04 - Add pharmacist credentials
+Commit at 2026-05-26 17:45:42 - Update page title and keywords
