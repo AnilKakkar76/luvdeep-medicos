@@ -365,3 +365,4 @@ Commit at 2026-05-26 17:45:42 - Update page title and keywords
 Commit at 2026-05-26 15:08:52 - Add new medicine category
 Commit at 2026-05-27 11:38:19 - Add WhatsApp quick contact
 Commit at 2026-05-27 19:36:53 - Fix navigation menu toggle bug
+Commit at 2026-05-27 18:36:31 - Add smooth scroll behavior
