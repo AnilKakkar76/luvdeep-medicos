@@ -369,3 +369,4 @@ Commit at 2026-05-27 18:36:31 - Add smooth scroll behavior
 Commit at 2026-05-27 10:33:26 - Adjust padding and margins sitewide
 Commit at 2026-05-27 20:38:22 - Adjust product card grid spacing
 Commit at 2026-05-28 16:48:31 - Reorganize asset folder structure
+Commit at 2026-05-29 11:57:59 - Refactor CSS variables
