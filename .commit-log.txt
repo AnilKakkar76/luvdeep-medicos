@@ -371,3 +371,4 @@ Commit at 2026-05-27 20:38:22 - Adjust product card grid spacing
 Commit at 2026-05-28 16:48:31 - Reorganize asset folder structure
 Commit at 2026-05-29 11:57:59 - Refactor CSS variables
 Commit at 2026-05-29 16:27:12 - Fix sticky header z-index issue
+Commit at 2026-05-30 13:49:31 - Improve meta description
