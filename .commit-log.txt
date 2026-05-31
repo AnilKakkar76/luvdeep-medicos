@@ -373,3 +373,4 @@ Commit at 2026-05-29 11:57:59 - Refactor CSS variables
 Commit at 2026-05-29 16:27:12 - Fix sticky header z-index issue
 Commit at 2026-05-30 13:49:31 - Improve meta description
 Commit at 2026-05-30 14:24:55 - Add new service offering
+Commit at 2026-05-31 09:06:09 - Fix broken layout on tablet view
